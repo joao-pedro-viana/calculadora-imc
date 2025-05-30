@@ -1,8 +1,8 @@
 # calculadora-imc
 Calculadora que fornece o Índice de Massa Corporal (IMC).
 
-Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
--- HTML
--- CSS
--- JavaScript
+-- HTML  
+-- CSS  
+-- JavaScript  
